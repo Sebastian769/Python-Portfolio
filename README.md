@@ -6,5 +6,5 @@
 5. Multiplication quiz- answer 5 multiplication questions and receive your grade.
 
 #Semester 2
-1. Dog breeds- It helps the user find a dog that matches their desires
-2. 99 Bottles- Prints out a joyuful classic tune
+1. Dog breeds- It helps the user find a dog that matches their desires. Asks the user for triats they want in their dog and prints out a description.
+2. 99 Bottles- Prints out a joyuful classic tune. Uses loops and strings to count down from 99.
